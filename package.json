@@ -1,0 +1,17 @@
+{
+  "name": "integration-test-repo",
+  "version": "1.0.0",
+  "description": "A repository for integration testing with a login API and webpage.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
