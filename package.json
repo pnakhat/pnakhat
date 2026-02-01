@@ -5,12 +5,26 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
-    "test": "jest"
+    "test": "jest",
+    "test:e2e": "playwright test"
+  },
+  "jest": {
+    "testPathIgnorePatterns": [
+      "/node_modules/",
+      "/tests/e2e/"
+    ]
   },
   "dependencies": {
     "express": "^4.21.1"
   },
   "devDependencies": {
+    "@playwright/test": "^1.58.1",
+    "@serenity-js/assertions": "^3.39.0",
+    "@serenity-js/console-reporter": "^3.39.0",
+    "@serenity-js/core": "^3.39.0",
+    "@serenity-js/playwright-test": "^3.39.0",
+    "@serenity-js/serenity-bdd": "^3.39.0",
+    "@serenity-js/web": "^3.39.0",
     "jest": "^29.7.0",
     "supertest": "^7.0.0"
   }
