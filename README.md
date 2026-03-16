@@ -1,44 +1,64 @@
-# Pankaj Nakhat
+# Pankaj Nakhat | Head of QA, Release & Reliability | UAE
 
-**Head of QA, Release & Reliability** | 22+ years in Quality Engineering | Abu Dhabi, UAE
+**Senior QA Leader** based in **Abu Dhabi, UAE** with 22+ years building quality engineering practices for enterprise product delivery across Financial Services, Real Estate, and Trading Systems.
 
-Building intelligent test automation and quality platforms for enterprise-scale product delivery.
-
----
-
-## What I'm Working On
-
-🔧 **[playwright-spec-doc-reporter](https://github.com/pnakhat/playwright-spec-doc-reporter)** - A Playwright reporter that combines BDD-style annotations with AI-powered failure analysis and interactive HTML dashboards. Open to contributors.
-
-🤖 **Multi-Agent QA Frameworks** - Designing agentic test automation architectures using Playwright, MCP, and LLMs with persistent DOM memory for self-healing capabilities.
-
-📊 **LLM Evaluation Pipelines** - Production implementations of DeepEval for RAG systems, conversational AI, and prompt regression testing in CI/CD.
+Currently leading **Quality Assurance, Release Management, and Site Reliability** across 25+ product teams at ALDAR Properties, implementing DORA metrics, test automation strategy, and AI-powered QA solutions at scale.
 
 ---
 
-## Technical Focus
+## 🔧 Open Source
 
-- **Test Automation:** Playwright, WebdriverIO, Appium, Supertest
-- **AI/ML Testing:** DeepEval, RAG pipeline validation, LLM observability
-- **Platforms:** Azure DevOps, Datadog, BrowserStack, MuleSoft
-- **Domains:** Financial Services (FIX, Kafka, Smart Contracts), Real Estate Tech, Trading Systems
+### [playwright-spec-doc-reporter](https://github.com/pnakhat/playwright-spec-doc-reporter)
+A Playwright test reporter combining BDD annotations, AI-powered failure analysis, and interactive HTML dashboards. Built for teams scaling test automation with observability.
 
----
-
-## Background
-
-Currently leading quality engineering across 25+ product teams at ALDAR Properties, implementing DORA metrics frameworks and reliability practices at scale.
-
-Previously: JP Morgan, HSBC, Barclays, UBS, Visa, ThoughtWorks, R3 (blockchain/CBDC)
+`playwright` `test-automation` `bdd` `ai-testing` `test-reporting` `qa-tools`
 
 ---
 
-## Recent Writing & Ideas
+## 💡 Areas of Expertise
 
-I share perspectives on QA transformation, AI in testing, and engineering culture on [LinkedIn](https://www.linkedin.com/in/pnakhat/).
+| Quality Engineering | Test Automation | AI/ML Testing |
+|---------------------|-----------------|---------------|
+| QA Strategy & Transformation | Playwright, WebdriverIO, Appium | LLM Evaluation (DeepEval) |
+| DORA Metrics & Reliability | API Testing (Supertest, Postman) | RAG Pipeline Validation |
+| Release Management | CI/CD (Azure DevOps, GitHub Actions) | Prompt Regression Testing |
+| Team Leadership (25+ squads) | BrowserStack, Datadog | Agentic Test Automation |
+
+---
+
+## 🏢 Domain Experience
+
+- **Financial Services:** Trading systems, FIX protocol, Kafka, PCI-DSS, regulatory compliance
+- **Blockchain/DeFi:** Smart contract testing, CBDC (R3), crypto trading platforms
+- **Real Estate Tech:** Property platforms, mobile apps, conversational AI
+- **Enterprise Scale:** JP Morgan, HSBC, Barclays, UBS, Visa, ThoughtWorks
+
+---
+
+## 📍 Location & Contact
+
+Based in **Abu Dhabi, United Arab Emirates**
+
+- LinkedIn: [linkedin.com/in/pnakhat](https://www.linkedin.com/in/pnakhat/)
+- Open to: QA Leadership, Head of Quality, Director of Engineering roles in UAE/GCC
+
+---
+
+## 🚀 Current Technical Focus
+
+- **Multi-Agent QA Frameworks** using Playwright + MCP + GPT-4o with DOM Memory persistence
+- **LLM Testing in Production** with DeepEval metrics integrated into CI/CD pipelines
+- **Quality Platform Engineering** for Spotify-model organizations
 
 ---
 
 <p align="center">
-  <i>Quality is not a gate. It's a culture.</i>
+  <b>Quality Assurance Leader | Test Automation Architect | UAE</b><br/>
+  <i>Building intelligent testing systems for enterprise scale</i>
 </p>
+
+<!-- 
+Keywords: Head of QA UAE, QA Director Abu Dhabi, Quality Engineering Leader Dubai, 
+Test Automation Architect Middle East, SDET Lead UAE, QA Manager United Arab Emirates,
+Software Testing Leader GCC, Quality Assurance Director UAE, Test Lead Abu Dhabi
+-->
