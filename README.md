@@ -39,7 +39,7 @@ A Playwright test reporter combining BDD annotations, AI-powered failure analysi
 
 Based in **Abu Dhabi, United Arab Emirates**
 
-- LinkedIn: [linkedin.com/in/pnakhat](https://www.linkedin.com/in/pankajnakhat/)
+- LinkedIn: [linkedin.com/in/pankajnakhat](https://www.linkedin.com/in/pankajnakhat/)
 - Open to: QA Leadership, Head of Quality, Director of Engineering roles in UAE/GCC
 - Website : https://pankajnakhat.com
 
