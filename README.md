@@ -41,7 +41,7 @@ Based in **Abu Dhabi, United Arab Emirates**
 
 - LinkedIn: [linkedin.com/in/pankajnakhat](https://www.linkedin.com/in/pankajnakhat/)
 - Open to: QA Leadership, Head of Quality, Director of Engineering roles in UAE/GCC
-- Website : https://pankajnakhat.com
+- Website : https://pnakhat.com
 
 ---
 
